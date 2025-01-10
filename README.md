@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-- 🔭 We're currently working on Snooproxy Pro 😀
+- 🔭 We're currently working on a Fun Untitled Unknown Unrelated to anything Writing Program (FUWP for short)
 - 📫 Reach us at: hello@snooproxy.com
-- ⚡ Fun fact: We were founded only two months ago 🤣
+- ⚡ Check out [@shaijyy](https://github.com/shaijyy)
